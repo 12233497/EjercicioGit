@@ -7,6 +7,6 @@ package com.mycompany.ejerciciogit;
 public class EjercicioGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello kecha!");
     }
 }
